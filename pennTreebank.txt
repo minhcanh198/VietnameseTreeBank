@@ -138,17 +138,15 @@
                 (UNN một)
                 (NP (NN tuần))))))
 
-11. Giáo_viên có 1 tiết học để sinh_hoạt với học_sinh.
+11. Giáo_viên có 1 tiết_học để sinh_hoạt với học_sinh.
 (S
     (NP (NN giáo_viên))
     (VP
         (VP 
             (VB có)
             (NP 
-                (UN một)
-                (NP
-                    (NN tiết)
-                    (VP (VB học)))))
+                (CD một)
+                (NP (NN tiết_học))))
         (PP
             (IN để)
 			(VP
@@ -178,10 +176,10 @@
 		(PP
 			(IN với)
 			(NP
-				(NP (NN mục_tiêu)
+				(NP (NN mục_tiêu))
 				(VP
 					(VB đậu)
-					(NP (NN đại_học))))))))
+					(NP (NN đại_học)))))))
 
 14. Học_sinh tham_khảo ý_kiến giáo_viên. 
 (S
@@ -257,10 +255,9 @@
 				(NN học_sinh)
 				(ADJP (JJ giỏi)))))
     (VP
-        (VP 
-            (RB được)
-            (VP (VB nhận))
-        (NP (NN bằng_khen)))))
+        (RB được)
+        (VP (VB nhận)
+            (NP (NN bằng_khen)))))
 
 20.  Giáo_viên chuẩn_bị tài_liệu học_tập.
 (S
@@ -432,10 +429,10 @@
 	(VP
 		(RB được)
 		(VP
-			(VP (VB viểt)))
+			(VB viểt)
 			(PP
 				(IN bằng)
-				(NP (NN tiếng_anh)))))
+				(NP (NN tiếng_anh))))))
 
 35. Giáo_viên hỗ_trợ tài_liệu tiếng_anh cho học_sinh. 
 (S
@@ -521,15 +518,14 @@
 	(VP
 		(RB đang)
 		(VP
-			(VP
-				(VB là)
-				(NP
-					(NP
-						(NN vấn_đề)
-						(ADJP (JJ nóng_hổi)))
-					(PP
-						(IN trong)
-						(NP (NN xã_hội))))))))
+            (VB là)
+            (NP
+                (NP
+                    (NN vấn_đề)
+                    (ADJP (JJ nóng_hổi)))
+                (PP
+                    (IN trong)
+                    (NP (NN xã_hội)))))))
 
 41. Nữ_sinh trang_điểm trong giờ thể_dục. 
 (S 
@@ -564,11 +560,11 @@
 43. Nam và các bạn đang đá bóng ngoài sân. 
 (S 
 	(NP
-		(NP (NNP nam)
+		(NP (NNP nam))
 		(CC và)
 		(NP
 			(DET các)
-			(NP (NN bạn)))))
+			(NP (NN bạn))))
 	(VP
 		(RB đang)
 		(VP
@@ -619,10 +615,10 @@
 		(VP 
 			(VB thay_đổi)
 			(NP
-				(NP (NN phương_pháp)
+				(NP (NN phương_pháp))
 				(VP
 					(VB học)
-					(NP (NN tiếng_anh))))))))
+					(NP (NN tiếng_anh)))))))
 
 47. Tết đang đến rất gần với học sinh ở miền quê. 
 (S	
@@ -682,7 +678,7 @@
 
 51. Nhà_trường cần hỗ_trợ các học_sinh khó_khăn. 
 (S 
-	(NP (NN nhà_trường)
+	(NP (NN nhà_trường))
 	(VP
 		(MD cần)
 		(VP 
@@ -691,11 +687,11 @@
 				(DET các)
 				(NP 
 					(NN học_sinh)
-					(ADJP (JJ khó_khăn))))))))
+					(ADJP (JJ khó_khăn)))))))
 
 52. Nam bị phạt trong giờ học văn. 
 (S 
-	(NP (NNP nam)
+	(NP (NNP nam))
 	(VP
 		(VP
 			(RB bị)
@@ -703,10 +699,10 @@
 		(PP
 			(IN trong)
 			(NP
-				(NP (NN giờ)
+				(NP (NN giờ))
 				(VP	
 					(VB học)
-					(NP (NN văn)))))))))
+					(NP (NN văn)))))))
 
 53. Lan và Hoa hay nói_chuyện riêng trong lớp. 
 (S 
@@ -726,7 +722,7 @@
 
 54. Học_sinh được nghỉ Tết một tháng. 
 (S 
-	(NP (NN học_sinh)
+	(NP (NN học_sinh))
 	(VP
 		(RB được)
 		(VP
@@ -735,7 +731,7 @@
 				(NP (NNP tết)))
 			(NP	
 				(CD một)
-				(NP (NN tháng)))))))
+				(NP (NN tháng))))))
 
 55. Nam trốn học đi chơi điện_tử. 
 (S 
@@ -767,7 +763,7 @@
 
 57. Học_sinh đang dọn vệ_sinh ngoài sân trường.
 (S 
-	(NP	(NN học_sinh)
+	(NP	(NN học_sinh))
 	(VP
 		(RB đang)
 		(VP
@@ -778,7 +774,7 @@
 				(IN ngoài)
 				(NP
 					(NN sân)
-					(NP (NN trường))))))))
+					(NP (NN trường)))))))
 
 58. Học_sinh rất thích học môn Sinh_học. 
 (S	
@@ -795,14 +791,14 @@
 
 59. Học_sinh hay tụ_tập ở căn_tin. 
 (S 
-	(NP (NN học_sinh)
+	(NP (NN học_sinh))
 	(VP	
 		(RB hay)
 		(VP
 			(VB tụ_tập)
 			(PP
 				(IN ở)
-				(NP (NN căn_tin)))))))
+				(NP (NN căn_tin))))))
 
 60. Nam bị trộm sách_giáo_khoa môn Toán. 
 (S

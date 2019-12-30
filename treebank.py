@@ -1,5 +1,7 @@
 import nltk 
 from nltk import Tree
+import pickle
+
 
 print("===============================================")
 import json
@@ -37,9 +39,8 @@ for i in grammar:
 for i in setOfGrammar:
     rule[i] = rule[i] / (nonTerminal[i._lhs])
 
-
 for i in rule:
-    print(i, "  ", rule[i]) 
+    print(i, "  ", rule[i])
 
 
 

@@ -151,10 +151,8 @@ data = {
         (VP 
             (VB có)
             (NP 
-                (UN một)
-                (NP
-                    (NN tiết)
-                    (VP (VB học)))))
+                (CD một)
+                (NP (NN tiết_học))))
         (PP
             (IN để)
 			(VP
@@ -184,10 +182,10 @@ data = {
 		(PP
 			(IN với)
 			(NP
-				(NP (NN mục_tiêu)
+				(NP (NN mục_tiêu))
 				(VP
 					(VB đậu)
-					(NP (NN đại_học))))))))
+					(NP (NN đại_học)))))))
     """,
     13 :"""
     (S
@@ -263,10 +261,9 @@ data = {
 				(NN học_sinh)
 				(ADJP (JJ giỏi)))))
     (VP
-        (VP 
-            (RB được)
-            (VP (VB nhận))
-        (NP (NN bằng_khen)))))
+        (RB được)
+        (VP (VB nhận)
+            (NP (NN bằng_khen)))))
     """,
      19 :"""
     (S
@@ -438,10 +435,10 @@ data = {
 	(VP
 		(RB được)
 		(VP
-			(VP (VB viểt)))
+			(VB viểt)
 			(PP
 				(IN bằng)
-				(NP (NN tiếng_anh)))))
+				(NP (NN tiếng_anh))))))
     """,
      34 :"""
     (S
@@ -526,15 +523,14 @@ data = {
 	(VP
 		(RB đang)
 		(VP
-			(VP
-				(VB là)
-				(NP
-					(NP
-						(NN vấn_đề)
-						(ADJP (JJ nóng_hổi)))
-					(PP
-						(IN trong)
-						(NP (NN xã_hội))))))))
+            (VB là)
+            (NP
+                (NP
+                    (NN vấn_đề)
+                    (ADJP (JJ nóng_hổi)))
+                (PP
+                    (IN trong)
+                    (NP (NN xã_hội)))))))
     """,
      40 :"""
     (S 
@@ -569,11 +565,11 @@ data = {
      42 :"""
     (S 
 	(NP
-		(NP (NNP nam)
+		(NP (NNP nam))
 		(CC và)
 		(NP
 			(DET các)
-			(NP (NN bạn)))))
+			(NP (NN bạn))))
 	(VP
 		(RB đang)
 		(VP
@@ -624,10 +620,10 @@ data = {
 		(VP 
 			(VB thay_đổi)
 			(NP
-				(NP (NN phương_pháp)
+				(NP (NN phương_pháp))
 				(VP
 					(VB học)
-					(NP (NN tiếng_anh))))))))
+					(NP (NN tiếng_anh)))))))
     """,
      46 :"""
     (S	
@@ -687,20 +683,20 @@ data = {
     """,
      50 :"""
     (S 
-	(NP (NN nhà_trường)
-	(VP
-		(MD cần)
-		(VP 
-			(VB hỗ_trợ)
-			(NP
-				(DET các)
-				(NP 
-					(NN học_sinh)
-					(ADJP (JJ khó_khăn))))))))
+        (NP (NN nhà_trường))
+        (VP
+            (MD cần)
+            (VP 
+                (VB hỗ_trợ)
+                (NP
+                    (DET các)
+                    (NP 
+                        (NN học_sinh)
+                        (ADJP (JJ khó_khăn)))))))
     """,
      51 :"""
-   (S 
-	(NP (NNP nam)
+    (S 
+	(NP (NNP nam))
 	(VP
 		(VP
 			(RB bị)
@@ -708,10 +704,10 @@ data = {
 		(PP
 			(IN trong)
 			(NP
-				(NP (NN giờ)
+				(NP (NN giờ))
 				(VP	
 					(VB học)
-					(NP (NN văn)))))))))
+					(NP (NN văn)))))))
     """,
      52 :"""
     (S 
@@ -731,7 +727,7 @@ data = {
     """,
      53 :"""
     (S 
-	(NP (NN học_sinh)
+	(NP (NN học_sinh))
 	(VP
 		(RB được)
 		(VP
@@ -740,7 +736,7 @@ data = {
 				(NP (NNP tết)))
 			(NP	
 				(CD một)
-				(NP (NN tháng)))))))
+				(NP (NN tháng))))))
     """,
      54 :"""
     (S 
@@ -772,7 +768,7 @@ data = {
     """,
      56 :"""
     (S 
-	(NP	(NN học_sinh)
+	(NP	(NN học_sinh))
 	(VP
 		(RB đang)
 		(VP
@@ -783,7 +779,7 @@ data = {
 				(IN ngoài)
 				(NP
 					(NN sân)
-					(NP (NN trường))))))))
+					(NP (NN trường)))))))
     """,
      57 :"""
     (S	
@@ -799,15 +795,15 @@ data = {
 						(NP (NN sinh_học)))))))
     """,
      58 :"""
-    (S 
-	(NP (NN học_sinh)
+   (S 
+	(NP (NN học_sinh))
 	(VP	
 		(RB hay)
 		(VP
 			(VB tụ_tập)
 			(PP
 				(IN ở)
-				(NP (NN căn_tin)))))))
+				(NP (NN căn_tin))))))
     """,
      59 :"""
     (S
