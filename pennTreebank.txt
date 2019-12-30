@@ -146,7 +146,7 @@
             (VB có)
             (NP 
                 (CD một)
-                (NP (NN tiết_học))))
+                (NP (NN tiết_học))
         (PP
             (IN để)
 			(VP
@@ -941,7 +941,7 @@
                 (VB giúp_đỡ))
             (NP
                 (NP
-                    (det những)
+                    (DET những)
                     (NP (NN sinh_viên)))
                 (ADJP (JJ chăm_chỉ))))))
 
@@ -976,7 +976,7 @@
 72. Mọi sinh_viên đều phải đóng học_phí.
 (S
     (NP
-        (det mọi)
+        (DET mọi)
         (NP (NN sinh_viên)))
     (VP
         (RB đều)
@@ -989,7 +989,7 @@
 73. Nhiều sinh_viên bị rớt môn toán.
 (S
     (NP
-        (det nhiều)
+        (DET nhiều)
         (NP (NN sinh_viên)))
     (VP
         (RB bị)
@@ -1116,7 +1116,7 @@
 83. Nhiều học_sinh phải làm thêm để trang_trải cuộc_sống.
 (S
     (NP
-        (det nhiều)
+        (DET nhiều)
         (NP (NN học_sinh)))
     (VP
 	 	(MD phải)
@@ -1160,7 +1160,7 @@
                 (VP
                     (VB phát_triển)
                     (NP
-                        (det nhiều)
+                        (DET nhiều)
                         (NP (NN kỹ_năng))))
                 (PP
                     (IN cho)
@@ -1196,7 +1196,7 @@
         (VP
             (VB gây)
             (NP
-                (det nhiều)
+                (DET nhiều)
                 (NP (NN tổn_thương))))))
 
 89. Bạn gái mới chia_tay đã có người_yêu mới.
@@ -1288,7 +1288,7 @@
                 (VB nghĩ)
                 (VB giúp))
             (NP
-                (det vài)
+                (DET vài)
                 (NP (NN câu_hỏi))))))
 
 95. Công_ty tổ_chức tiệc lớn vào chiều nay.
