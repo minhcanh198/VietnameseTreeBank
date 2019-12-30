@@ -1,0 +1,1411 @@
+1. Giáo_viên dạy thực_nghiệm sách_giáo_khoa toán. 
+(S
+    (NP (NN giáo_viên))
+    (VP
+        (VP
+            (VB dạy)
+            (VP (VB thực_nghiệm)))
+        (NP
+            (NN sách_giáo_khoa)
+            (NP (NN toán)))))
+
+2. Giáo_viên sáng_tạo bài_giảng trong giảng_dạy. 
+(S
+    (NP (NN giáo_viên))
+    (VP
+        (VP 
+            (VB sáng_tạo)
+            (NP (NN bài_giảng)))
+        (PP
+            (IN trong)
+            (NP (NN giảng_dạy)))))
+
+3. Bài_toán trong sách_giáo_khoa lớp một thì rất khó. 
+(S
+    (NP
+        (NN bài_toán)
+        (PP
+            (IN trong)
+            (NP
+                (NN sách_giáo_khoa)
+                (NP
+                    (NN lớp)
+                    (CD một)))))
+    (VP
+		(VB thì)
+		(ADJP
+			(RB rất)
+			(ADJP (JJ khó)))))
+
+4. Phương_pháp giảng_dạy của giáo_viên đã thay_đổi. 
+(S
+    (NP
+		(NP
+			(NN phương_pháp)
+			(NP (NN giảng_dạy)))
+        (PP
+            (IN của)
+            (NP (NN giáo_viên))))
+    (VP
+        (RB đã)
+        (VP (VB thay_đổi))))
+
+5. Học_sinh làm bài_tập trước khi đến lớp. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VP 
+            (VB làm)
+            (NP (NN bài_tập)))
+        (PP
+            (RB trước_khi)
+            (VP 
+                (VB đến)
+                (NP (NN lớp))))))
+
+6. Giáo_viên kiểm tra bài_tập của học_sinh.
+(S
+    (NP (NN giáo_viên))
+    (VP
+        (VB kiểm_tra)
+        (NP
+            (NN bài_tập)
+            (PP
+                (IN của)
+                (NP (NN học_sinh))))))
+
+7. Học_sinh được nghỉ 5 phút giữa các tiết học. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VP
+            (RB được)
+            (VP
+                (VB nghỉ)
+                (NP
+                    (CD năm)
+                    (NP (NN phút)))))
+        (PP
+            (IN giữa)
+            (NP 
+                (DET các)
+                (NP (NN tiết_học))))))
+
+8. Tiếng_anh được sử_dụng để giảng_dạy các môn tự_nhiên. 
+(S
+    (NP (NN tiếng_anh))
+    (VP
+        (VP 
+            (RB được)
+            (VP (VB sử_dụng)))
+		(PP
+			(IN để)
+			(VP 
+				(VB giảng_dạy) 
+				(NP 
+					(DET các)
+					(NP
+						(NN môn)
+						(NP (NN tự_nhiên))))))))
+
+9. Học_sinh luyện_tập tiếng_anh trong giờ giải_lao. 
+(S
+    (NP  (NN học_sinh))
+    (VP
+        (VP
+            (VB luyện_tập)
+            (NP (NN tiếng_anh)))
+        (PP
+            (IN trong)
+            (NP
+                (NN giờ)
+                (NP (NN giải_lao))))))
+
+10. Học_sinh có 4 tiết toán trong một tuần. 
+(S
+    (NP (NN học_sinh))
+    (VP 
+        (VP 
+            (VB có)
+            (NP
+                (UNN bốn)
+                (NP
+                    (NN tiết)
+                    (NP (NN toán)))))
+        (PP
+            (IN trong)
+            (VP
+                (UNN một)
+                (NP (NN tuần))))))
+
+11. Giáo_viên có 1 tiết học để sinh_hoạt với học_sinh.
+(S
+    (NP (NN giáo_viên))
+    (VP
+        (VP 
+            (VB có)
+            (NP 
+                (UN một)
+                (NP
+                    (NN tiết)
+                    (VP (VB học)))))
+        (PP
+            (IN để)
+			(VP
+				(VB sinh_hoạt)
+				(PP
+					(IN với)
+					(NP (NN học_sinh)))))))
+
+12. Lương giáo_viên thì còn rất thấp. 
+(S
+    (NP
+        (NN lương)
+        (NP (NN giáo_viên)))
+    (VP
+        (VB thì)
+        (ADJP
+			(RB còn)
+			(ADJP
+			   	(RB rất)
+            	(ADJP (JJ thấp))))))
+
+13. Học_sinh học_tập với mục_tiêu đậu đại_học. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VB học_tập)
+		(PP
+			(IN với)
+			(NP
+				(NP (NN mục_tiêu)
+				(VP
+					(VB đậu)
+					(NP (NN đại_học))))))))
+
+14. Học_sinh tham_khảo ý_kiến giáo_viên. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VB tham_khảo)
+        (NP
+            (NN ý_kiến)
+            (NP (NN giáo_viên)))))
+
+15. Các hoạt_động của học_sinh được giám_sát. 
+(S
+    (NP
+        (DET các)
+        (NP
+            (NN hoạt_động)
+            (PP
+                (IN của)
+                (NP (NN học_sinh)))))
+    (VP
+        (RB được)
+		(VP (VB giám_sát))))
+
+16. Các kỳ_thi được tổ_chức định_kỳ. 
+(S
+    (NP
+        (DET các)
+        (NP (NN kỳ_thi)))
+    (VP
+        (VP 
+            (RB được)
+            (VB tổ_chức))
+        (ADVP (RB định_kỳ))))
+
+17. Học_sinh sẽ thi tuyển_sinh đầu_vào trong tháng tới. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VP
+            (RB sẽ)
+            (VP
+                (VB thi)
+                (NP (NN tuyển_sinh)
+                    (NN đầu_vào))))
+        (PP
+            (IN trong)
+            (NP 
+                (NN tháng)
+                (PRP tới)))))
+
+18. Các đợt thi_thử được tổ_chức định_kỳ hằng_tháng. 
+(S
+    (NP 
+        (DET các)
+        (NP
+            (UNN đợt)
+            (NP (NN thi_thử))))
+    (VP
+        (VP 
+            (RB được)
+            (VB tổ_chức))
+        (ADVP
+            (RB định_kỳ)
+            (ADVP (RB hằng_tháng)))))
+
+19. Các bạn học_sinh giỏi được nhận bằng_khen. 
+(S
+    (NP
+		(DET các)
+		(NP
+			(NN bạn)
+			(NP
+				(NN học_sinh)
+				(ADJP (JJ giỏi)))))
+    (VP
+        (VP 
+            (RB được)
+            (VP (VB nhận))
+        (NP (NN bằng_khen)))))
+
+20.  Giáo_viên chuẩn_bị tài_liệu học_tập.
+(S
+    (NP (NN giáo_viên))
+    (VP
+        (VB chuẩn_bị)
+        (NP 
+            (NN tài_liệu)
+            (NP (NN học_tập))))) 
+
+21. Học_sinh có 20 phút giải_lao. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VB có)
+        (NP
+            (NP 
+                (CD hai_mươi)
+                (NP (NN phút)))
+            (NP(NN giải_lao)))))
+
+22. Tài_liệu được ghi bằng tiếng_anh. 
+(S
+    (NP (NN tài_liệu))
+    (VP
+        (VP
+            (RB được)
+            (VB ghi))
+        (PP
+            (IN bằng)
+            (NP (NN tiếng_anh)))))
+
+23. Đại_học là mơ_ước của nhiều học_sinh. 
+(S
+    (NP (NN đại_học))
+    (VP
+        (VP
+            (VB là)
+            (NP (NN mơ_ước)))
+        (PP
+            (IN của)
+            (NP
+                (DET nhiều)
+                (NP (NN học_sinh))))))
+
+24. Học_sinh gặp khó_khăn trong việc lựa_chọn trường đại_học. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VP
+            (VB gặp)
+            (ADVP (RB khó_khăn)))
+        (PP
+            (IN trong)
+            (NP 
+                (NN việc)
+                (VP
+                    (VB lựa_chọn)
+                    (NP 
+                        (NN trường)
+                        (NP (NN đại_học))))))))
+
+25. Học_sinh thiếu các kỹ_năng mềm. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VB thiếu)
+        (NP
+            (DET các)
+            (NP 
+                (NN kỹ_năng)
+                (ADJP (JJ mềm))))))
+
+26. Kỹ_năng mềm được đưa vào giảng_dạy. 
+(S
+    (NP 
+        (NN kỹ_năng)
+        (ADJP (JJ mềm)))
+    (VP
+        (RB được)
+        (VP
+            (VB đưa)
+			(PP
+				(IN vào)
+				(NP (NN giảng_dạy))))))
+
+27. Học_sinh thay_đổi phương_pháp học. 
+(S
+    (NP (NN học_sinh))
+    (VP
+        (VB thay_đổi)
+        (NP 
+			(NN phương_pháp)
+            (NP (NN học)))))
+
+28. Giáo_viên hỗ_trợ học_sinh làm bài_tập. 
+(S
+    (NP (NN giáo_viên))
+    (VP
+        (VP
+            (VB hỗ trợ)
+            (NP (NN học_sinh)))
+        (VP 
+            (VB làm)
+            (NP (NN bài_tập)))))
+
+29. Giáo_viên cho học_sinh bài_tập tiếng_anh.
+(S
+	(NP (NN giáo_viên))
+	(VP
+		(VP
+			(VB cho)
+			(NP (NN học_sinh)))
+		(NP
+			(NN bài_tập)
+			(NP (NN tiếng_anh)))))
+
+30. Học_sinh học thuộc bài trong sách_giáo_khoa. 
+(S 
+	(NP (NN học_sinh))
+	(VP
+		(VP
+			(VP	
+				(VB học)
+				(ADVP (RB thuộc)))
+			(NP (NN bài)))
+		(PP
+			(IN trong)
+			(NP (NN sách_giáo_khoa)))))
+
+31. Giáo_viên cho bài_tập trong sách_giáo_khoa tiếng_anh. 
+(S
+	(NP (NN giáo_viên))
+	(VP
+		(VP
+			(VB cho)
+			(NP (NN bài_tập)))
+		(PP
+			(IN trong)
+			(NP
+				(NN sách_giáo_khoa)
+				(NP (NN tiếng_anh))))))
+
+32. Học_sinh nói tiếng_anh rất lưu_loát.
+(S 
+	(NP (NN học_sinh))
+	(VP
+		(VP
+			(VB nói)
+			(NP (NN tiếng_anh)))
+		(ADVP
+			(RB rất)
+			(ADVP (RB lưu_loát)))))
+
+33. Học_sinh thảo_luận bằng tiếng_anh. 
+(S 
+	(NP (NN học_sinh))
+	(VP
+		(VP (VB thảo_luận))
+		(PP
+			(IN bằng)
+			(NP (NN tiếng_anh)))))
+
+34. Bài_tập toán được viết bằng tiếng_anh. 
+(S
+	(NP
+		(NN bài_tập)
+		(NP (NN toán)))
+	(VP
+		(RB được)
+		(VP
+			(VP (VB viểt)))
+			(PP
+				(IN bằng)
+				(NP (NN tiếng_anh)))))
+
+35. Giáo_viên hỗ_trợ tài_liệu tiếng_anh cho học_sinh. 
+(S
+	(NP (NN giáo_viên))
+	(VP
+		(VP 
+			(VB hỗ_trợ)
+			(NP	
+				(NN tài_liệu)
+				(NP (NN tiếng_anh))))
+		(PP
+				(IN cho)
+				(NP	(NN học_sinh)))))
+
+36. Nam hay đi học trễ vào ngày thứ hai. 
+(S
+	(NP (NNP nam))
+	(VP
+		(VP
+			(RB hay)
+			(VP
+				(VP
+					(VB đi)
+					(NP	(NN học)))
+				(ADVP (RB trễ))))
+		(PP
+			(IN vào)
+			(NP
+				(NN ngày)
+				(NP (NN thứ_hai))))))
+
+37. Cô hiệu_trưởng phạt nặng các trường_hợp học_sinh đánh_nhau. 
+(S
+	(NP 
+		(NN	cô)
+		(NP (NN	hiệu_trưởng)))
+	(VP
+		(VP
+			(VB phạt)
+			(ADVP (RB nặng)))
+		(NP
+			(DET các)
+			(NP	
+				(NN trường_hợp)
+				(NP
+					(NP (NN học_sinh))
+					(VP	(VB đánh_nhau)))))))
+
+38. Lan ăn vụng trong giờ học. 
+(S 
+	(NP (NNP lan))
+	(VP
+		(VP
+			(VB ăn)
+			(ADVP (RB vụng)))
+		(PP
+			(IN trong)
+			(NP
+				(NN giờ)
+				(NP (NN học))))))
+					
+
+39. Nhà_trường ban hành luật mới về đồng_phục học_sinh. 
+(S 
+	(NP (NN nhà_trường))
+	(VP
+		(VB ban_hành)
+		(NP
+			(NP
+				(NN luật)
+				(ADJP (JJ mới)))
+			(PP
+				(IN về)
+				(NP
+					(NN đồng_phục)
+					(NP (NN học_sinh)))))))
+
+40. An_toàn thực_phẩm đang là vấn_đề nóng_hổi trong xã_hội. 
+(S 
+	(NP
+		(NN an_toàn)
+		(NP	(NN	thực_phẩm)))
+	(VP
+		(RB đang)
+		(VP
+			(VP
+				(VB là)
+				(NP
+					(NP
+						(NN vấn_đề)
+						(ADJP (JJ nóng_hổi)))
+					(PP
+						(IN trong)
+						(NP (NN xã_hội))))))))
+
+41. Nữ_sinh trang_điểm trong giờ thể_dục. 
+(S 
+	(NP (NN nữ_sinh))
+	(VP
+		(VB trang_điểm)
+		(PP
+			(IN trong)
+			(NP
+				(NN giờ)
+				(NP (NN thể_dục))))))
+
+42. Các chú bảo_vệ đang cắt cỏ trong khuôn_viên trường. 
+(S
+	(NP
+		(DET các)
+		(NP
+			(NN chú)
+			(NP (NN bảo_vệ))))
+	(VP
+		(RB đang)
+		(VP
+			(VP
+				(VB cắt)
+				(NP (NN cỏ)))
+			(PP
+				(IN trong)
+				(NP
+					(NN khuôn_viên)
+					(NP (NN trường)))))))
+
+43. Nam và các bạn đang đá bóng ngoài sân. 
+(S 
+	(NP
+		(NP (NNP nam)
+		(CC và)
+		(NP
+			(DET các)
+			(NP (NN bạn)))))
+	(VP
+		(RB đang)
+		(VP
+			(VP
+				(VB đá)
+				(NP (NN bóng)))
+			(PP
+				(IN ngoài)
+				(NP (NN sân))))))
+
+44. Học_sinh đang gặp áp_lực với kì_thi đại_học sắp tới. 
+(S 
+	(NP (NN học_sinh))
+	(VP
+		(RB đang)
+		(VP
+			(VP
+				(VB gặp)
+				(NP (NN áp_lực)))
+			(PP
+				(IN với)
+				(NP	
+					(NP
+						(NN kì_thi)
+						(NP (NN đại_học)))
+					(ADJP (JJ sắp_tới)))))))
+
+45. Phụ_huynh đang đón con trước cổng trường. 
+(S 
+	(NP (NN phụ_huynh))
+	(VP 
+		(RB đang)
+		(VP
+			(VP
+				(VB đón)
+				(NP (NN con)))
+			(PP
+				(IN trước)
+				(NP
+					(NN cổng)
+					(NP (NN trường)))))))
+
+46. Học_sinh cần thay_đổi phương_pháp học tiếng_anh.
+(S
+	(NP (NN học_sinh))
+	(VP
+		(MD cần)
+		(VP 
+			(VB thay_đổi)
+			(NP
+				(NP (NN phương_pháp)
+				(VP
+					(VB học)
+					(NP (NN tiếng_anh))))))))
+
+47. Tết đang đến rất gần với học sinh ở miền quê. 
+(S	
+	(NP	(NNP tết)) 
+	(VP	
+		(RB đang)
+		(VP	
+			(VP
+				(VB đến)
+				(ADVP
+					(RB rất)
+					(ADVP (RB gần))))
+			(PP
+				(IN	với)
+				(NP	
+					(NP	(NN học_sinh))
+					(PP
+						(IN ở)
+						(NP (NN miền_quê))))))))
+
+48. Mọi_người ngắm pháo_hoa vào đêm giao_thừa. 
+(S	
+	(NP	(NN mọi_người)) 
+	(VP		
+		(VP
+			(VB ngắm)
+			(NP	(NN pháo_hoa)))
+		(PP
+			(IN	vào)
+			(NP	
+				(NN đêm)
+				(NN giao_thừa)))))
+		
+49. Học_sinh đang tham_gia các hoạt_động ngoại_khóa.
+(S 
+	(NP (NN học_sinh))
+	(VP
+		(RB đang)
+		(VP
+			(VB tham_gia)
+			(NP	
+				(DET các)
+				(NP
+					(NN hoạt_động)
+					(NP (NN ngoại_khóa)))))))
+
+50. Nam thích học môn Toán. 
+(S 
+	(NP (NNP nam))
+	(VP 
+        (VB thích)
+        (VP
+            (VB học)
+            (NP
+                (NN môn)
+                (NP (NN toán))))))
+
+51. Nhà_trường cần hỗ_trợ các học_sinh khó_khăn. 
+(S 
+	(NP (NN nhà_trường)
+	(VP
+		(MD cần)
+		(VP 
+			(VB hỗ_trợ)
+			(NP
+				(DET các)
+				(NP 
+					(NN học_sinh)
+					(ADJP (JJ khó_khăn))))))))
+
+52. Nam bị phạt trong giờ học văn. 
+(S 
+	(NP (NNP nam)
+	(VP
+		(VP
+			(RB bị)
+			(VP (VB phạt)))
+		(PP
+			(IN trong)
+			(NP
+				(NP (NN giờ)
+				(VP	
+					(VB học)
+					(NP (NN văn)))))))))
+
+53. Lan và Hoa hay nói_chuyện riêng trong lớp. 
+(S 
+	(NP
+		(NP (NNP lan))
+		(CC và)
+		(NP (NNP hoa)))
+	(VP
+		(RB hay)
+		(VP
+			(VP
+			 	(VB nói_chuyện)
+				(ADVP (RB riêng)))
+			(PP
+				(IN trong)
+				(NP (NN lớp))))))
+
+54. Học_sinh được nghỉ Tết một tháng. 
+(S 
+	(NP (NN học_sinh)
+	(VP
+		(RB được)
+		(VP
+			(VP 
+				(VB nghỉ)
+				(NP (NNP tết)))
+			(NP	
+				(CD một)
+				(NP (NN tháng)))))))
+
+55. Nam trốn học đi chơi điện_tử. 
+(S 
+	(NP (NNP nam))
+    (VP
+        (VP 
+            (VB trốn)
+            (NP (NN học)))
+        (VP 
+            (VB đi)
+            (VP 
+                (VB chơi)
+                (NP (NN điện_tử))))))
+
+56. Cây bàng trước sân_trường đang rụng lá. 
+(S 
+	(NP 
+		(NP
+			(UNN cây)
+			(NP (NN bàng)))
+		(PP
+			(IN trước)
+			(NP (NN sân_trường))))
+	(VP
+		(RB đang)
+		(VP
+			(VB rụng)
+			(NP (NN lá)))))
+
+57. Học_sinh đang dọn vệ_sinh ngoài sân trường.
+(S 
+	(NP	(NN học_sinh)
+	(VP
+		(RB đang)
+		(VP
+			(VP
+				(VB dọn)
+				(NP (NN vệ_sinh)))
+			(PP
+				(IN ngoài)
+				(NP
+					(NN sân)
+					(NP (NN trường))))))))
+
+58. Học_sinh rất thích học môn Sinh_học. 
+(S	
+	(NP	(NN học_sinh)) 
+	(VP		
+		(RB rất)
+			(VP
+				(VB thích)
+				(VP
+					(VB học)
+					(NP
+						(NN môn)
+						(NP (NN sinh_học)))))))
+
+59. Học_sinh hay tụ_tập ở căn_tin. 
+(S 
+	(NP (NN học_sinh)
+	(VP	
+		(RB hay)
+		(VP
+			(VB tụ_tập)
+			(PP
+				(IN ở)
+				(NP (NN căn_tin)))))))
+
+60. Nam bị trộm sách_giáo_khoa môn Toán. 
+(S
+	(NP	(NNP nam))
+	(VP
+		(VP
+			(RB bị)
+			(VB trộm))
+		(NP
+			(NN sách_giáo_khoa)
+			(NP
+				(NN môn)
+				(NP (NN toán))))))
+
+61. Lan với Nam hay đi học vào mỗi sáng. 
+(S
+	(NP
+		(NP (NNP lan))
+		(CC với)
+		(NP (NNP nam)))
+	(VP
+		(RB hay)
+		(VP
+			(VP
+				(VB đi)
+				(NP	(NN học)))
+			(PP
+				(IN vào)
+				(NP
+					(DET mỗi)
+					(NP	(NN sáng)))))))
+
+62. Giáo_viên kiểm_tra đồng_phục học_sinh. 
+(S
+	(NP	(NN giáo_viên))
+	(VP
+		(VB kiểm_tra)
+		(NP
+			(NN đồng_phục)
+			(NP (NN học_sinh)))))
+					
+
+63. Học_sinh bị cấm sử_dụng điện thoại trong giờ học. 
+(S
+	(NP	(NN học_sinh))
+	(VP
+		(VP
+			(RB bị) 
+			(VB cấm))
+		(VP
+			(VP
+				(VB sử_dụng)
+				(NP (NN điện_thoại)))
+			(PP
+				(IN trong)
+				(NP
+					(NN giờ)
+					(NP (NN học)))))))
+
+64. Học_sinh cần tuân_thủ nội_quy nhà_trường. 
+(S
+	(NP	(NN học_sinh))
+	(VP	
+		(MD cần)
+		(VP
+			(VB tuân_thủ)
+			(NP
+				(NN nội_quy)
+				(NN nhà_trường)))))
+
+65. Hoa phượng thường nở vào mùa hè. 
+(S
+	(NP 
+		(NN hoa)
+		(NP (NNP phượng)))
+	(VP
+		(RB thường)
+		(VP
+			(VB nở)
+			(PP
+				(IN vào)
+				(NP
+					(NN mùa)
+					(NP (NN hè)))))))
+
+66. Ve_sầu thường kêu vào mùa hè. 
+(S
+	(NP (NN ve_sầu))
+	(VP
+		(RB thường)
+		(VP
+			(VB kêu)
+			(PP
+				(IN vào)
+				(NP
+					(NN mùa)
+					(NP (NN hè)))))))
+
+67. Công_nhân_viên thì luôn khó_khăn trong tài_chính.
+(S
+    (NP (NN công_nhân_viên))
+    (VP
+        (VP
+            (VB thì)
+            (ADJP
+                (RB luôn)
+                (ADJP (JJ khó_khăn))))
+        (PP
+            (IN trong)
+            (NP (NN tài_chính)))))
+
+68. Nhóm đó đang khẩn_trương hoàn_thành dự án để nghiệm_thu.
+(S
+    (NP
+        (NN nhóm)
+        (PRP đó))
+    (VP
+        (RB đang)
+        (VP
+            (VP
+                (ADVP (RB khẩn_trương))
+                (VP 
+                    (VB hoàn_thành)
+                    (NP (NN dự_án))))
+            (PP
+                (IN để)
+                (VP (VB nghiệm_thu))))))
+
+69. Thầy cô luôn động_viên và giúp_đỡ những sinh_viên chăm_chỉ.
+(S
+    (NP 
+        (NN thầy)
+        (NP (NN cô)))
+    (VP
+        (RB luôn)
+        (VP
+            (VP
+                (VB động_viên)
+                (CC và)
+                (VB giúp_đỡ))
+            (NP
+                (NP
+                    (det những)
+                    (NP (NN sinh_viên)))
+                (ADJP (JJ chăm_chỉ))))))
+
+70. Mọi_người được ngắm pháo_ hoa vào đêm giao_thừa.
+(S
+    (NP (NN mọi_người))
+    (VP
+	 	(RB được)
+        (VP
+            (VP
+                (VB ngắm)
+                (NP (NN pháo_hoa)))
+			(PP
+				(IN vào)
+				(NP
+					(NN đêm)
+					(NP (NN giao_thừa)))))))
+
+71. Trời mưa to vào chiều nay.
+(S
+    (NP (NN trời))
+    (VP
+        (VP
+            (VB mưa)
+            (ADVP (RB to)))
+        (PP
+            (IN vào)
+            (NP
+                (NN chiều)
+                (NP (PRP nay))))))
+
+72. Mọi sinh_viên đều phải đóng học_phí.
+(S
+    (NP
+        (det mọi)
+        (NP (NN sinh_viên)))
+    (VP
+        (RB đều)
+        (VP     
+            (MD phải)
+            (VP
+                (VB đóng)
+                (NP (NN học_phí))))))
+
+73. Nhiều sinh_viên bị rớt môn toán.
+(S
+    (NP
+        (det nhiều)
+        (NP (NN sinh_viên)))
+    (VP
+        (RB bị)
+        (VP
+            (VB rớt)
+            (NP
+                (NN môn)
+                (NP (NN toán))))))
+
+74. Cuốn sách này thì rất thú_vị.
+(S
+    (NP
+        (NP 
+            (UNN cuốn)
+            (NP (NN sách)))
+        (PRP này))
+    (VP
+        (VB thì)
+        (ADJP
+            (RB rất)
+            (ADJP (JJ thú_vị)))))
+
+75. Việc đọc truyện làm tốn thời_gian của chúng_ta.
+(S
+    (NP
+        (NN việc)
+        (VP
+            (VB đọc)
+            (NP (NN truyện))))
+    (VP
+        (VB làm)
+        (VP
+            (VB tốn)
+            (NP
+                (NN thời_gian)
+                (PP
+                    (IN của)
+                    (NP (PRP chúng_ta)))))))
+
+76. Hai sinh_viên đó có mâu_thuẫn với nhau.
+(S
+    (NP
+        (NP
+            (CD hai)
+            (NP (NN sinh_viên)))
+        (PRP đó))
+    (VP
+        (VP
+            (VB có)
+            (NP (NN mâu_thuẫn)))
+        (PP
+            (IN với)
+            (NP (NN nhau)))))
+
+77. Đồ_án cuối kỳ liên_quan đến kỹ_thuật.
+(S
+    (NP
+        (NN đồ_án)
+        (NP 
+			(JJ cuối)
+			(NP (NN kỳ))))
+    (VP
+        (VB liên_quan)
+        (PP
+            (IN đến)
+            (NP (NN kỹ_thuật)))))
+
+78. Chiếc máy_tính hoạt_động liên_tục.
+(S
+    (NP
+        (UNN chiếc)
+        (NP (NN máy_tính)))
+    (VP
+        (VB hoạt_động)
+        (ADVP (RB liên_tục))))
+
+79. Nó đã hỏng vào hôm_nay.
+(S
+    (NP (PRP nó))
+    (VP
+        (RB đã)
+        (VP
+            (VB hỏng)
+            (PP
+                (IN  vào)
+                (NP (NN hôm_nay))))))
+
+
+80. Tài_liệu môn đó thì rất dễ.
+(S
+    (NP
+        (NN tài_liệu)
+        (NP
+            (NN môn)
+            (PRP đó)))
+    (VP
+        (VB thì)
+        (ADJP
+            (RB rất)
+            (ADJP (JJ dễ)))))
+
+81. Tài_liệu được cập_nhật kịp_thời.
+(S
+    (NP (NN tài_liệu))
+    (VP 
+        (RB được)
+        (VP
+            (VB cập_nhật)
+            (ADVP (RB kịp_thời)))))
+
+82. Sinh_viên sắp về quê đón tết.
+(S
+    (NP (NN sinh_viên))
+    (VP
+        (RB sắp)
+        (VP
+            (VP
+                (VB về)
+                (NP (NN quê)))
+            (VP
+                (VB đón)
+                (NP (NNP tết))))))
+
+83. Nhiều học_sinh phải làm thêm để trang_trải cuộc_sống.
+(S
+    (NP
+        (det nhiều)
+        (NP (NN học_sinh)))
+    (VP
+	 	(MD phải)
+        (VP
+            (VP
+                (VB làm)
+                (ADVP (RB thêm)))
+			(PP
+				(IN để)
+				(VP
+					(VB trang_trải)
+					(NP (NN cuộc_sống)))))))
+
+84. Lương của sinh_viên mới ra trường là rất cao.
+(S
+    (NP
+        (NN lương)
+        (PP
+            (IN của)
+            (NP
+                (NN sinh_viên)
+                (VP
+                    (RB mới)
+                    (VP
+                        (VB ra)
+                        (NP (NN trường)))))))
+    (VP
+        (VB là)
+        (ADJP
+            (RB rất)
+            (ADJP (JJ cao)))))
+
+85. Trường_học là nơi phát_triển nhiều kỹ_năng cho sinh_viên.
+(S
+    (NP (NN trường_học))
+    (VP
+        (VB là)
+        (NP
+            (NN nơi)
+            (VP
+                (VP
+                    (VB phát_triển)
+                    (NP
+                        (det nhiều)
+                        (NP (NN kỹ_năng))))
+                (PP
+                    (IN cho)
+                    (NP (NN sinh_viên)))))))
+
+86. Cây xanh hầu như đã biến_mất.
+(S
+    (NP
+        (NN cây)
+        (ADJP (JJ xanh)))
+    (VP
+        (RB hầu_như)
+        (VP
+            (RB đã)
+            (VP (VB biến_mất)))))
+
+87. Bạn tôi thì rất lười_biếng.
+(S
+    (NP
+        (NN bạn)
+        (PRP tôi))
+    (VP
+        (VB thì)
+        (ADJP
+            (RB rất)
+            (ADJP (JJ lười_biếng)))))
+
+88. Tình_yêu sẽ gây nhiều tổn_thương.
+(S
+    (NP (NN tình_yêu))
+    (VP
+        (RB sẽ)
+        (VP
+            (VB gây)
+            (NP
+                (det nhiều)
+                (NP (NN tổn_thương))))))
+
+89. Bạn gái mới chia_tay đã có người_yêu mới.
+(S
+    (NP
+        (NP
+            (NN bạn)
+            (NP (NN gái)))
+        (VP
+            (RB mới)
+            (VP (VB chia_tay))))
+    (VP
+        (RB đã)
+        (VP
+            (VB có)
+            (NP
+                (NP (NN người_yêu))
+                (ADJP (JJ mới))))))
+
+90. Anh ấy chờ tôi ở sân bóng.
+(S
+    (NP
+        (NN anh)
+        (PRP ấy))
+    (VP 
+        (VP
+            (VB chờ)
+            (NP (PRP tôi)))
+        (PP 
+            (IN ở)
+            (NP 
+                (NN sân)
+                (NP (NN bóng))))))
+
+91. Chúng_tôi đang tích_cực làm đồ_án. 
+(S
+    (NP (PRP chúng_tôi))
+    (VP
+        (RB đang)
+        (VP
+            (VB tích_cực)
+            (VP
+                (VB làm)
+                (NP (NN đồ_án))))))
+
+92. Tôi cảm_ơn các đồng_nghiệp đã hỗ_trợ cho tôi.
+(S
+    (NP (PRP tôi))
+    (VP
+        (VB cảm_ơn)
+        (NP
+            (DET các)
+            (NP
+                (NN đồng_nghiệp)
+                (VP
+                    (RB đã)
+                    (VP
+                        (VB hỗ_trợ)
+                        (PP
+                            (IN cho)
+                            (NP (PRP tôi)))))))))
+
+93. Chiếc điện_thoại thì quá tốt với mức_giá này.
+(S
+    (NP
+        (UNN chiếc)
+        (NP (NN điện_thoại)))
+    (VP
+        (VP
+            (VB thì)
+            (ADJP
+                (RB quá)
+                (ADJP (JJ tốt))))
+        (PP
+            (IN với)
+            (NP
+                (NN mức_giá)
+                (PRP này)))))
+
+94. Tôi nhờ bạn nghĩ giúp vài câu_hỏi.
+(S
+    (NP (PRP tôi))
+    (VP 
+        (VP
+            (VB nhờ)
+            (NP (PRP bạn)))
+        (VP
+            (VP
+                (VB nghĩ)
+                (VB giúp))
+            (NP
+                (det vài)
+                (NP (NN câu_hỏi))))))
+
+95. Công_ty tổ_chức tiệc lớn vào chiều nay.
+(S
+    (NP (NN công_ty))
+    (VP 
+        (VP 
+            (VB tổ_chức)
+            (NP
+                (NN tiệc)
+                (ADJP (JJ lớn))))
+        (PP
+            (IN vào)
+            (NP
+                (NN chiều)
+                (PRP nay)))))             
+
+96. Chị ấy vừa đi du_học ở Campuchia.
+(S
+    (NP
+        (NN chị)
+        (PRP ấy))
+    (VP
+        (RB vừa)
+        (VP
+            (VP
+                (VB đi)
+                (VB du_học))
+            (PP
+                (IN ở)
+                (NP (NNP campuchia))))))
+
+97. Du_học_sinh campuchia cổ_vũ cho đội_tuyển Việt_Nam.
+(S
+    (NP
+        (NN du_học_sinh)
+        (NP (NNP campuchia)))
+    (VP
+        (VB cổ_vũ)
+        (PP
+            (IN cho)
+            (NP
+                (NN đội_tuyển)
+                (NP (NNP  việt_nam))))))
+
+98. Đội_bóng được thưởng 10 tỉ đồng cho chiến_thắng lớn vào cuối tuần.
+(S
+    (NP (NN đội_bóng))
+    (VP
+        (VP
+            (RB được)
+            (VP
+                (VB thưởng)
+                (NP
+                    (CD mười)
+                    (NP
+                        (UNN tỉ)
+                        (NP (NN đồng))))))
+        (PP
+            (IN cho)
+            (NP
+                (NP
+                    (NN chiến_thắng)
+                    (ADJP   (JJ lớn)))
+                (PP
+                    (IN vào)
+                    (NP 
+                        (JJ cuối)
+                        (NP (NN tuần))))))))
+
+99. Dự_án của chúng_tôi đã được đánh_giá cao.
+(S
+    (NP
+        (NN dự_án)
+        (PP
+            (IN của)
+            (NP (PRP chúng_tôi))))
+    (VP
+        (RB đã)
+        (VP
+            (RB được)
+            (VP
+                (VB đánh_giá)
+                (ADVP (RB cao))))))
+
+100. Bà ấy đang cố_gắng lấy niềm_tin với lãnh_ đạo của công_ty.
+(S
+    (NP
+        (NN bà)
+        (PRP ấy))
+    (VP
+        (RB đang)
+        (VP
+            (VP
+                (VB cố_gắng)
+                (VP
+                    (VB lấy)
+                    (NP (NN niềm_tin))))
+            (PP
+                (IN với)
+                (NP
+                    (NN lãnh_đạo)
+                    (PP
+                        (IN của)
+                        (NP (NN công_ty))))))))
+
+101. Mọi_chuyện sẽ sớm kết_thúc tốt_đẹp.         
+(S
+    (NP (NN mọi_chuyện))
+    (VP
+        (RB sẽ)
+        (VP
+			(RB sớm)
+			(VP
+				(VB kết_thúc)
+				(ADVP (RB tốt_đẹp))))))
