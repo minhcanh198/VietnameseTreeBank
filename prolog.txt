@@ -1,3 +1,67 @@
+s(s(X, Y), P) --> np(X, P1), vp(Y, P2), {P is P1*P2*1.0}.
+
+np(np(X, Y), P) --> np1(X, P1), pp(Y, P2), {P is P1*P2*0.017142857142857144}.
+np(np(X, Y), P) --> np1(X, P1), prp(Y, P2), {P is P1*P2*0.005714285714285714}.
+np(np(X, Y), P) --> np1(X, P1), adjp(Y, P2), {P is P1*P2*0.008571428571428572}.
+np(np(X, Y), P) --> np1(X, P1), np(Y, P2), {P is P1*P2*0.002857142857142857}.
+np(np(X, Y), P) --> np1(X, P1), vp(Y, P2), {P is P1*P2*0.014285714285714285}.
+np(np(X, Y, Z), P) --> np1(X, P1), cc(Y, P2), np(Z, P3), {P is P1*P2*P3*0.008571428571428572}.
+
+np1(np(X, Y), P) --> np(X, P1), pp(Y, P2), {P is P1*P2*0.017142857142857144}.
+np1(np(X, Y), P) --> np(X, P1), prp(Y, P2), {P is P1*P2*0.005714285714285714}.
+np1(np(X, Y), P) --> np(X, P1), adjp(Y, P2), {P is P1*P2*0.008571428571428572}.
+np1(np(X, Y), P) --> np(X, P1), np(Y, P2), {P is P1*P2*0.002857142857142857}.
+np1(np(X, Y), P) --> np(X, P1), vp(Y, P2), {P is P1*P2*0.014285714285714285}.
+np1(np(X, Y, Z), P) --> np(X, P1), cc(Y, P2), np(Z, P3), {P is P1*P2*P3*0.008571428571428572}.
+
+np(np(X, Y), P) --> nn(X, P1), adjp(Y, P2), {P is P1*P2*0.025714285714285714}.
+np(np(X, Y), P) --> nn(X, P1), cd(Y, P2), {P is P1*P2*0.002857142857142857}.
+np(np(X, Y), P) --> nn(X, P1), nn(Y, P2), {P is P1*P2*0.008571428571428572}.
+np(np(X, Y), P) --> nn(X, P1), np(Y, P2), {P is P1*P2*0.13714285714285715}.
+np(np(X, Y), P) --> det(X, P1), np(Y, P2), {P is P1*P2*0.06285714285714286}.
+np(np(X, Y), P) --> nn(X, P1), prp(Y, P2), {P is P1*P2*0.025714285714285714}.
+np(np(X, Y), P) --> unn(X, P1), np(Y, P2), {P is P1*P2*0.02}.
+np(np(X, Y), P) --> nn(X, P1), pp(Y, P2), {P is P1*P2*0.02}.
+np(np(X, Y), P) --> jj(X, P1), np(Y, P2), {P is P1*P2*0.005714285714285714}.
+np(np(X), P) --> prp(X, P1), {P is P1*0.02857142857142857}.
+np(np(X, Y), P) --> cd(X, P1), np(Y, P2), {P is P1*P2*0.017142857142857144}.
+np(np(X, Y), P) --> nn(X, P1), vp(Y, P2), {P is P1*P2*0.014285714285714285}.
+np(np(X), P) --> nnp(X, P1), {P is P1*0.05142857142857143}.
+np(np(X), P) --> nn(X, P1), {P is P1*0.5228571428571429}.
+
+vp(vp(X, Y), P) --> vp1(X, P1), advp(Y, P2), {P is P1*P2*0.01652892561983471}.
+vp(vp(X, Y), P) --> vp1(X, P1), pp(Y, P2), {P is P1*P2*0.16942148760330578}.
+vp(vp(X, Y), P) --> vp1(X, P1), vp(Y, P2), {P is P1*P2*0.02066115702479339}.
+vp(vp(X, Y), P) --> vp1(X, P1), np(Y, P2), {P is P1*P2*0.03305785123966942}.
+
+vp1(vp(X, Y), P) --> vp(X, P1), advp(Y, P2), {P is P1*P2*0.01652892561983471}.
+vp1(vp(X, Y), P) --> vp(X, P1), pp(Y, P2), {P is P1*P2*0.16942148760330578}.
+vp1(vp(X, Y), P) --> vp(X, P1), vp(Y, P2), {P is P1*P2*0.02066115702479339}.
+vp1(vp(X, Y), P) --> vp(X, P1), np(Y, P2), {P is P1*P2*0.03305785123966942}.
+
+vp(vp(X, Y), P) --> md(X, P1), vp(Y, P2), {P is P1*P2*0.02066115702479339}.
+vp(vp(X, Y), P) --> vb(X, P1), advp(Y, P2), {P is P1*P2*0.049586776859504134}.
+vp(vp(X, Y), P) --> vb(X, P1), vb(Y, P2), {P is P1*P2*0.008264462809917356}.
+vp(vp(X, Y), P) --> unn(X, P1), np(Y, P2), {P is P1*P2*0.004132231404958678}.
+vp(vp(X), P) --> vb(X, P1), {P is P1*0.04132231404958678}.
+vp(vp(X, Y), P) --> vb(X, P1), adjp(Y, P2), {P is P1*P2*0.03305785123966942}.
+vp(vp(X, Y, Z), P) --> vb(X, P1), cc(Y, P2), vb(Z, P3), {P is P1*P2*P3*0.004132231404958678}.
+vp(vp(X, Y), P) --> advp(X, P1), vp(Y, P2), {P is P1*P2*0.004132231404958678}.
+vp(vp(X, Y), P) --> vb(X, P1), pp(Y, P2), {P is P1*P2*0.049586776859504134}.
+vp(vp(X, Y), P) --> rb(X, P1), vp(Y, P2), {P is P1*P2*0.2024793388429752}.
+vp(vp(X, Y), P) --> vb(X, P1), np(Y, P2), {P is P1*P2*0.29338842975206614}.
+vp(vp(X, Y), P) --> vb(X, P1), vp(Y, P2), {P is P1*P2*0.028925619834710745}.
+vp(vp(X, Y), P) --> rb(X, P1), vb(Y, P2), {P is P1*P2*0.02066115702479339}.
+
+pp(pp(X, Y), P) --> in(X, P1), vp(Y, P2), {P is P1*P2*0.07575757575757576}.
+pp(pp(X, Y), P) --> rb(X, P1), vp(Y, P2), {P is P1*P2*0.015151515151515152}.
+pp(pp(X, Y), P) --> in(X, P1), np(Y, P2), {P is P1*P2*0.9090909090909091}.
+
+adjp(adjp(X, Y), P) --> rb(X, P1), adjp(Y, P2), {P is P1*P2*0.3103448275862069}.
+adjp(adjp(X), P) --> jj(X, P1), {P is P1*0.6896551724137931}.
+advp(advp(X), P) --> rb(X, P1), {P is P1*0.85}.
+advp(advp(X, Y), P) --> rb(X, P1), advp(Y, P2), {P is P1*P2*0.15}.
+
 nn(nn(thể_dục),0.0037313432835820895)-->[thể_dục].
 vb(vb(gặp),0.015267175572519083)-->[gặp].
 nn(nn(hôm_nay),0.0037313432835820895)-->[hôm_nay].
