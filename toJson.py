@@ -945,7 +945,7 @@ data = {
                 (VB giúp_đỡ))
             (NP
                 (NP
-                    (det những)
+                    (DET những)
                     (NP (NN sinh_viên)))
                 (ADJP (JJ chăm_chỉ))))))
     """,
@@ -980,7 +980,7 @@ data = {
      71 :"""
     (S
     (NP
-        (det mọi)
+        (DET mọi)
         (NP (NN sinh_viên)))
     (VP
         (RB đều)
@@ -993,7 +993,7 @@ data = {
      72 :"""
     (S
     (NP
-        (det nhiều)
+        (DET nhiều)
         (NP (NN sinh_viên)))
     (VP
         (RB bị)
@@ -1119,7 +1119,7 @@ data = {
      82 :"""
     (S
     (NP
-        (det nhiều)
+        (DET nhiều)
         (NP (NN học_sinh)))
     (VP
 	 	(MD phải)
@@ -1163,7 +1163,7 @@ data = {
                 (VP
                     (VB phát_triển)
                     (NP
-                        (det nhiều)
+                        (DET nhiều)
                         (NP (NN kỹ_năng))))
                 (PP
                     (IN cho)
@@ -1199,7 +1199,7 @@ data = {
         (VP
             (VB gây)
             (NP
-                (det nhiều)
+                (DET nhiều)
                 (NP (NN tổn_thương))))))
     """,
      88 :"""
@@ -1291,7 +1291,7 @@ data = {
                 (VB nghĩ)
                 (VB giúp))
             (NP
-                (det vài)
+                (DET vài)
                 (NP (NN câu_hỏi))))))
     """,
      94 :"""
