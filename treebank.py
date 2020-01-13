@@ -21,7 +21,6 @@ for i in contentlist:
         grammar = grammar + newgrammer
     except:
         print(Exception)
-
 print(grammar)
 setOfGrammar = set()
 nonTerminal = dict()

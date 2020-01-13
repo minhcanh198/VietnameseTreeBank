@@ -1,43 +1,3 @@
-<<<<<<< HEAD
-*
-!*.C
-!*.c
-!*.cpp
-!*.H
-!*.h
-!*.hpp
-!*.l
-!*.cf
-!*.y
-!*.in
-!*.md
-!*.html
-!*.txt
-!*.tex
-!*.bib
-!*.sty
-!*.pdf
-!*.g4
-!*.g3
-!*.bnf
-!*.py
-!*.sh
-!*.lexc
-!*.foma
-!*.json
-!*.java
-!*.jpeg
-!*.jpg
-!*.svg
-!*.tokens
-!*.scr
-!.gitignore
-!Makefile
-# ...even if they are in subdirectories
-!*/
-cmake-build-debug/
-
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -167,4 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
->>>>>>> a417e6b6cd267c0033b85235ce0699487e6a46df
