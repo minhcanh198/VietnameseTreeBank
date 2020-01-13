@@ -1,0 +1,147 @@
+﻿1. Giáo_viên dạy thực_nghiệm sách_giáo_khoa toán. 
+
+(s
+    (np (nn giáo_viên)
+    (vp
+        (vp
+            (vb dạy)
+            (vb thực_nghiệm))
+        (np
+            (nn sách_giáo_khoa)
+            (np (nn toán))))))
+
+2. Giáo_viên sáng_tạo bài_giảng trong giảng_dạy. 
+
+(s
+    (np (nn giáo_viên)
+    (vp
+        (vp
+            (vb sáng_tạo)
+            (np (nn bài_giảng)))
+        (pp 
+            (in trong)
+            (np (nn giảng_dạy))))))
+
+3. Bài_toán trong sách_giáo_khoa lớp một thì rất khó. 
+
+(s
+    (np
+        (np
+            (nn bài_toán)
+            (pp
+                (in trong)
+                (np (nn sách_giáo_khoa))))
+        (np
+            (nn lớp)
+            (cd một)))
+    (vp
+        (vb thì)
+        (adjp
+            (rb rẩt)
+            (adjp (jj khó)))))
+
+4. Phương_pháp giảng_dạy của giáo_viên đã thay_đổi. 
+
+(s
+    (np
+        (np
+            (nn phương_pháp)
+            (np (nn giảng_dạy))
+        (pp
+            (in của)
+            (np (nn giáo_viên))))
+   
+    (vp
+        (rb đã)
+        (vb thay_đổi))))
+         
+5. Học_sinh làm bài_tập trước_khi đến lớp. 
+
+(s 
+    (np (nn học_sinh))
+    (vp
+        (vp
+            (vb làm)
+            (np (nn bài_tập)))
+        (pp
+            (in trước_khi)
+            (np
+                (vb đến)
+                (np (nn lớp))))))
+
+6. Giáo_viên kiểm tra bài_tập của học_sinh.
+
+(s 
+    (np (nn giáo_viên)
+    (vp
+        (vb kiểm_tra)
+        (np
+            (np (nn bài_tập))
+            (pp
+                (in của)
+                (np (nn học_sinh)))))))
+
+7. Học_sinh được nghỉ 5 phút giữa các tiết_học. 
+
+(s
+    (np (nn học_sinh))
+    (vp
+        (rb được)
+        (vp
+            (vp
+                (vb nghỉ)
+                (np
+                    (cd năm)
+                    (np (nn phút))))
+            (pp
+                (in giữa)
+                (np
+                    (det các)
+                    (np (nn tiết_học)))))))
+       
+
+8. Tiếng_anh được sử_dụng để giảng_dạy các môn tự_nhiên. 
+
+
+9. Học_sinh luyện_tập tiếng_anh trong giờ giải_lao. 
+
+(s 
+    (np (nn học_sinh))
+    (vp
+        (vp
+            (vb luyện_tập)
+            (np (nn tiếng_anh)))
+        (pp
+            (in trong)
+            (np
+                (nn giờ)
+                (np (nn giải_lao))))))
+
+10. Học_sinh có bốn tiết toán trong một tuần. 
+
+(s 
+    (np (nn học_sinh))
+    (vp
+        (vp
+            (vb có)
+            (np
+                (cd bốn)
+                (np
+                    (unn tiết)
+                    (np (nn toán)))))
+        (pp
+            (in trong)
+            (np
+                (cd một)
+                (np (nn tuần))))))
+
+11. Giáo_viên có 1 tiết_học để sinh_hoạt với học_sinh.
+12. Lương giáo_viên thì còn rất thấp. 
+13. Học_sinh học_tập với mục_tiêu đậu đại_học. 
+14. Học_sinh tham_khảo ý_kiến giáo_viên. 
+15. Các hoạt_động của học_sinh được giám_sát. 
+16. Các kỳ_thi được tổ_chức định_kỳ. 
+17. Học_sinh sẽ thi tuyển_sinh đầu_vào trong tháng tới. 
+18. Các đợt thi_thử được tổ_chức định_kỳ hằng_tháng. 
+19. Các bạn học_sinh giỏi được nhận bằng_khen. 
+20.  Giáo_viên chuẩn_bị tài_liệu học_tập.
