@@ -8,7 +8,8 @@ import json
 
 contentlist = []
 
-with open('sentences.json') as json_file:
+# with open('sentences.json') as json_file:
+with open('sentences_for_report.json') as json_file:
     data = json.load(json_file)
     for i in data:
         contentlist.append(data[i])
